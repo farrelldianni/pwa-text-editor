@@ -1,6 +1,6 @@
 {
     "parserOptions": {
-        "ecmaVersion": "latest"
+        "ecmaVersion": "2017"
     },
 
     "env": {
